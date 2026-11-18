@@ -13,7 +13,7 @@ Backup is a PowerShell script that backs up the Windows Operating System (OS)
 
 ## How to use
 
-Open PowerShell in administrator mode 
+Run PowerShell as administrator 
 
 Then run the following commands
 
