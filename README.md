@@ -31,7 +31,7 @@ Would you like to create a restore point (Backup)
 
 [N] - A back up will not be created
 
-**Note: The restore point will be called "Windows Backup", it can changed by going into the ps1 file on line 18 and editing it to anything you would like to call.**
+**Note: The restore point will be called "Windows Backup", it can changed by going into the ps1 file on line 18 and editing it to anything you would like.**
 
 # Requirements
 - Windows 10 or 11
