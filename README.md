@@ -2,7 +2,7 @@
 
 # Disclaimer
 
-Each backup made will take 24 hours before another restore point can be created a user can create another restore point.
+Each restore point made will take 24 hours before another can be created, after 24 hours have pasted a user can create another restore point.
 
 ### Artificial Intelligence (AI) assisted
 
