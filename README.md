@@ -9,7 +9,7 @@ Each restore point made will take 24 hours before another can be created, after 
 AI was used to assist with the development and understanding of the PowerShell commands.
 
 # Backup About
-Backup is a PowerShell script that backs up the Windows Operating System (OS)
+Backup is a PowerShell script that backs up the Windows operating system (OS) and system settings
 
 ## How to use
 
