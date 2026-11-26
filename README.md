@@ -34,8 +34,7 @@ Would you like to create a restore point (Backup)
 **Note: The restore point will be called "Windows Backup", it can changed by going into the <kbd>.PS1</kbd> file on line 18 and editing it to anything you would like.**
 
 # Requirements
-- Windows 10
-- Windows 11
+- Windows 10 or 11
 - Administrator permissions
 - System Protection enabled
 
